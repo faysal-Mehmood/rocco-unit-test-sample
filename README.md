@@ -4,7 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+## npm install
+
 In the project directory, you can run:
+
+## Go to root root directory
+
+## cd server
+
+run backend server
+
+## node index.js
 
 ### `npm start`
 
